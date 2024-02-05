@@ -2,6 +2,8 @@
 
 ### Introduction:
 The detection of fraudulent credit card transactions is a critical endeavor to safeguard customers and credit card companies from unauthorized charges. However, this task is accompanied by several challenges that demand innovative solutions to ensure the model's speed, accuracy, and adaptability to ever-evolving scamming techniques.
+**
+*![baseline_ML_workflow_subset](https://github.com/solomonadekunle63/credit/assets/127578867/1bed69ee-28fd-47d1-bed7-c70336693332)
 ***
 ### Challenges and Solutions:
 1. **Enormous Data Processing:**
