@@ -22,11 +22,11 @@ The detection of fraudulent credit card transactions is a critical endeavor to s
    * Challenge: Scammers continuously adapt their techniques to evade detection, necessitating a model capable of adjusting to new strategies.
    * Solution: Develop models that are inherently adaptable, and periodically retrain them with updated datasets. Continuous monitoring and feedback loops enable the model to evolve and remain effective against emerging fraudulent patterns.
 6. **Ensuring Trustworthy Data:**
-   Challenge: The trustworthiness of the data used for training the model is paramount for accurate predictions.
-   Solution: Source data from reputable and secure platforms, employing mechanisms for double-checking the authenticity of transactions. Collaborate with trusted entities to validate and supplement the training data, ensuring the model is trained on reliable information.
+   * Challenge: The trustworthiness of the data used for training the model is paramount for accurate predictions.
+   * Solution: Source data from reputable and secure platforms, employing mechanisms for double-checking the authenticity of transactions. Collaborate with trusted entities to validate and supplement the training data, ensuring the model is trained on reliable information.
 7. **Interpretability and Simplicity:**
-   Challenge: Model complexity can hinder interpretability and the ability to quickly deploy updated versions.
-   Solution: Prioritize simplicity and interpretability in the model architecture, enabling easy understanding and modification. Regularly audit and update the model to counteract adaptive techniques employed by scammers.
+   * Challenge: Model complexity can hinder interpretability and the ability to quickly deploy updated versions.
+   * Solution: Prioritize simplicity and interpretability in the model architecture, enabling easy understanding and modification. Regularly audit and update the model to counteract adaptive techniques employed by scammers.
 ***
 ### Conclusion:
 Tackling the challenges of fraudulent credit card transaction detection requires a multifaceted approach that combines efficient algorithms, data preprocessing techniques, and adaptive model development. By addressing these challenges head-on, we can create a robust system capable of responding promptly to evolving threats in the realm of credit card fraud.
